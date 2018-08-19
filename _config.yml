@@ -79,3 +79,4 @@ theme: cactus
 deploy:
   type: git
   repo: git@github.com:ljcnaix/ljcnaix.github.io.git
+  branch: master
